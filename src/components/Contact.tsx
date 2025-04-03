@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Mail, MapPin, Phone } from 'lucide-react';
 
@@ -18,7 +17,7 @@ const Contact: React.FC = () => {
               </div>
               <div>
                 <h4 className="font-medium text-portfolio-dark">Location</h4>
-                <p className="text-muted-foreground">San Francisco, CA, USA</p>
+                <p className="text-muted-foreground">Nairobi, Kenya</p>
               </div>
             </div>
             
@@ -28,7 +27,7 @@ const Contact: React.FC = () => {
               </div>
               <div>
                 <h4 className="font-medium text-portfolio-dark">Email</h4>
-                <p className="text-muted-foreground">john@developer.com</p>
+                <p className="text-muted-foreground">ericmbugua825@gmail.com</p>
               </div>
             </div>
             
@@ -38,7 +37,7 @@ const Contact: React.FC = () => {
               </div>
               <div>
                 <h4 className="font-medium text-portfolio-dark">Phone</h4>
-                <p className="text-muted-foreground">+1 (123) 456-7890</p>
+                <p className="text-muted-foreground">+254704948242</p>
               </div>
             </div>
           </div>

@@ -49,7 +49,7 @@ const Footer: React.FC = () => {
               </a>
             </div>
             <p className="text-white/70 text-sm">
-              &copy; {currentYear} John Developer. All rights reserved.
+              &copy; {currentYear} Eric Kinyanjui. All rights reserved.
             </p>
           </div>
         </div>

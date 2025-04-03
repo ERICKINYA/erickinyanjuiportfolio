@@ -8,7 +8,7 @@ const Hero: React.FC = () => {
         <div className="lg:w-1/2 animate-fade-in">
           <p className="text-portfolio-blue font-medium mb-2">Hello, I'm</p>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 text-portfolio-dark">
-            John Developer
+            Eric Kinyanjui
           </h1>
           <h2 className="text-2xl md:text-3xl text-portfolio-dark/80 mb-6">
             Full Stack Developer
