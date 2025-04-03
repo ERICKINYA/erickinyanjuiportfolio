@@ -1,5 +1,6 @@
 
 import React from 'react';
+import { FileDown } from 'lucide-react';
 
 const Hero: React.FC = () => {
   return (
@@ -23,6 +24,14 @@ const Hero: React.FC = () => {
             </a>
             <a href="#projects" className="btn btn-outline">
               View My Work
+            </a>
+            <a 
+              href="/resume.pdf" 
+              download="Eric_Kinyanjui_Resume.pdf" 
+              className="btn btn-outline flex items-center gap-2"
+            >
+              <FileDown size={18} />
+              Download Resume
             </a>
           </div>
         </div>
