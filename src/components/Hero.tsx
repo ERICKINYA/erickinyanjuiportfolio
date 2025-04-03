@@ -31,8 +31,8 @@ const Hero: React.FC = () => {
           <div className="relative">
             <div className="aspect-square w-full max-w-md mx-auto rounded-full overflow-hidden border-4 border-white shadow-xl">
               <img
-                src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=500&h=500&fit=crop&crop=faces&q=80"
-                alt="Professional portrait of John Developer"
+                src="/lovable-uploads/66e43efe-5e4e-4abf-8e7e-af43bd9fe495.png"
+                alt="Professional portrait of Eric Kinyanjui"
                 className="w-full h-full object-cover"
               />
             </div>
