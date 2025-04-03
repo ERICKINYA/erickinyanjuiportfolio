@@ -8,7 +8,7 @@ const projects = [
     title: 'Week 3A - Database Design',
     description: 'Advanced database design project focusing on normalization and optimization techniques.',
     image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=500&h=300&fit=crop&q=80',
-    githubLink: 'https://github.com/yourusername/week-3a-database-design',
+    githubLink: 'https://github.com/PLP-Database-Design/wk-3a-ERICKINYA',
     tags: ['SQL', 'Database', 'Normalization']
   },
   {
@@ -16,7 +16,7 @@ const projects = [
     title: 'Week 2A - Database Design',
     description: 'Fundamentals of database design including ER diagrams and relationship modeling.',
     image: 'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=500&h=300&fit=crop&q=80',
-    githubLink: 'https://github.com/yourusername/week-2a-database-design',
+    githubLink: 'https://github.com/PLP-Database-Design/wk-2a-ERICKINYA',
     tags: ['SQL', 'ER Diagrams', 'Modeling']
   },
   {
@@ -24,7 +24,7 @@ const projects = [
     title: 'Python Projects',
     description: 'Collection of Python applications demonstrating data analysis, automation, and web scraping.',
     image: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=500&h=300&fit=crop&q=80',
-    githubLink: 'https://github.com/yourusername/python-projects',
+    githubLink: 'https://github.com/ERICKINYA/python',
     tags: ['Python', 'Data Analysis', 'Web Scraping']
   }
 ];
