@@ -20,13 +20,15 @@ const About: React.FC = () => {
           <div className="lg:w-1/2">
             <h3 className="text-2xl font-bold mb-4 text-portfolio-dark">Who I Am</h3>
             <p className="text-lg mb-4 text-muted-foreground">
-              I'm a passionate full-stack developer with 5 years of experience building web applications
-              that solve real-world problems. My journey in tech started when I built my first website
-              at the age of 16, and I've been hooked ever since.
+              A passionate software engineer with a knack for creating elegant solutions to complex problems.
+              With a strong foundation in both front-end and back-end technologies, I take pride in building
+              applications that are not only functional but also intuitive and user-friendly.
             </p>
             <p className="text-lg mb-6 text-muted-foreground">
-              I specialize in creating responsive, user-friendly interfaces with clean, maintainable code.
-              When I'm not coding, you'll find me hiking, reading tech blogs, or contributing to open-source projects.
+              My journey in technology started with a curiosity about how things work, which evolved into a
+              career dedicated to continuous learning and improvement. When I'm not coding, you'll find me
+              exploring new technologies, contributing to open-source projects, or sharing knowledge with
+              the developer community.
             </p>
             <div className="flex flex-wrap gap-2 mb-6">
               <span className="px-3 py-1 bg-portfolio-blue/10 text-portfolio-blue rounded-full text-sm">
@@ -40,6 +42,9 @@ const About: React.FC = () => {
               </span>
               <span className="px-3 py-1 bg-portfolio-blue/10 text-portfolio-blue rounded-full text-sm">
                 Fast Learner
+              </span>
+              <span className="px-3 py-1 bg-portfolio-purple/10 text-portfolio-purple rounded-full text-sm">
+                Detail-Oriented
               </span>
             </div>
           </div>
