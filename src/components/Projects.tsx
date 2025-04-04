@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { ExternalLink, Github } from 'lucide-react';
 
@@ -25,7 +24,7 @@ const projects = [
     description: 'Fundamentals of python.',
     image: 'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=500&h=300&fit=crop&q=80',
     githubLink: 'https://github.com/ERICKINYA/python',
-    tags: ['Python', 'Data Analysis', 'Web Scraping']
+    tags: ['Python', 'Data Analysis', 'Algorithms']
   }
 ];
 
