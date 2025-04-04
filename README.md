@@ -1,7 +1,7 @@
 # 🌐 Eric Kinyanjui Portfolio Website
 
 ## 🔗 Live Site
-**URL**:  https://erickinya.github.io/erickinyanjuiportfolio/
+**URL**: https://erickinyanjuiportfolio.lovable.app/
 ---
 
 ## 📁 Project Overview
